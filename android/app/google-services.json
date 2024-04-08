@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "301545653395",
+    "project_id": "gemini-api-tutorial",
+    "storage_bucket": "gemini-api-tutorial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301545653395:android:8ccd98f9e9af8f28883966",
+        "android_client_info": {
+          "package_name": "com.example.gemini_api_tutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeBMfT6Dv2fLmgHWz9smrXjrd3b-Jhsjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
