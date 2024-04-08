@@ -29,6 +29,7 @@ class _HomeScreenState extends State<HomeScreen> {
   }
 
   void _fetchScenario() async {
+    print('Button pressed!');
     try {
       final newScenario = await generateAndStoreScenario();
       setState(() {
@@ -36,6 +37,7 @@ class _HomeScreenState extends State<HomeScreen> {
       });
     } catch (error) {
        // Handle potential errors here
+       print(error);
     } 
   }
 
