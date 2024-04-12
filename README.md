@@ -1,10 +1,9 @@
-# gemini_api_tutorial
+# Gemini API Tutorial
 
-A new Flutter project.
+This code demonstrates the core functionality for a mobile game concept called "Oops, We Got Married!". It utilises the Gemini AI to generate funny and unexpected scenarios based on player information. The code can fetch scenarios from a Firebase Firestore database or trigger generation of new ones from Gemini. It also includes a basic UI layout to display the scenario and a button to interact with the game logic. While not fully functional, it provides a solid foundation for building an interactive story-based game experience.
+
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
